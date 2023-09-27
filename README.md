@@ -2,10 +2,10 @@
     <a href="https://github.com/honeymoose">
         <img height=85 src="https://avatars1.githubusercontent.com/u/45009982?s=200&v=4">
     </a>
-    <br>欢迎访问 [鲨鱼君](https://www.isharkfly.com/) 的代码库。
+    <br>欢迎访问鲨鱼君的代码库。
 </p>
 
-
+* [鲨鱼君](https://www.isharkfly.com/)
 
 ## 联系方式
 
