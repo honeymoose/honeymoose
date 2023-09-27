@@ -5,7 +5,7 @@
     <br>提供 CWIKI.US 项目中使用的代码
 </p>
 
-* [社区和讨论](https://www.ossez.com/c/open-source/java/15)
+* [鲨鱼君](https://www.isharkfly.com/)
 
 # 联系方式
 
@@ -15,7 +15,7 @@
 |--------|-----------------------------------------------|
 | 电子邮件   | [service@ossez.com](mailto:service@ossez.com) |
 | QQ 和微信 | 103899765                                     |
-| 社区论坛   | https://www.ossez.com/c/open-source/java/15   |
+| 社区和讨论   | https://www.isharkfly.com/c/computer-program/java/15   |
 
 
 ##
