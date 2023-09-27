@@ -2,12 +2,12 @@
     <a href="https://github.com/honeymoose">
         <img height=85 src="https://avatars1.githubusercontent.com/u/45009982?s=200&v=4">
     </a>
-    <br>提供 CWIKI.US 项目中使用的代码
+    <br>欢迎访问 [鲨鱼君](https://www.isharkfly.com/) 的代码库。
 </p>
 
-* [鲨鱼君](https://www.isharkfly.com/)
 
-# 联系方式
+
+## 联系方式
 
 请使用下面的联系方式和我们联系：
 
