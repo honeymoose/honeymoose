@@ -9,13 +9,11 @@
 
 ## 联系方式
 
-请使用下面的联系方式和我们联系：
-
-| 联系方式名称 | 联系方式                                          |
-|--------|-----------------------------------------------|
-| 电子邮件   | [service@ossez.com](mailto:service@ossez.com) |
-| QQ 和微信 | 103899765                                     |
-| 社区和讨论   | https://www.isharkfly.com/c/computer-program/java/15   |
+| 联系方式名称  | 联系方式                                  |
+|---------|---------------------------------------|
+| 电子邮件    | [yhu@ossez.com](mailto:yhu@ossez.com) |
+| 微信和QQ同号 | 103899765                             |
+| 社区论坛    | https://www.isharkfly.com/            |
 
 
 ##
